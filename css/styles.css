@@ -1,0 +1,97 @@
+/* Base styles */
+
+body {
+  font-family: 'Roboto', 'Releway', sans-serif;
+  color: #2e2f42;
+  background-color: WHITE;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+a {
+  color: currentColor;
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  color: currentColor;
+}
+
+/* Reset styles */
+
+/* Common styles */
+
+/* Header section */
+.header {
+}
+.header-nav {
+}
+.logo {
+}
+.accent {
+}
+.link {
+}
+.address {
+}
+.contact {
+}
+
+/* Hero section */
+.site-page {
+}
+.hero {
+}
+.hero-heading {
+}
+.hero-btn {
+}
+
+.description {
+}
+.description-list {
+}
+.description-point {
+}
+.description-heading {
+}
+.description-notes {
+}
+
+/* Team section */
+.team {
+}
+.team-list {
+}
+.team-point {
+}
+.team-png {
+}
+.member {
+}
+.team-position {
+}
+
+/* Portfolio section */
+.portfolio {
+}
+.portfolio-list {
+}
+.portfolio-point {
+}
+.portfolio-img {
+}
+.portfolio-heading {
+}
+.portfolio-name {
+}
+
+/* Footer section */
+.footer {
+}
+.footer-notes {
+}
